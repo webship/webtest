@@ -1,0 +1,7 @@
+name: WebTest
+type: module
+description: 'Website Testing tools.'
+core_version_requirement: '^8 || ^9'
+dependencies:
+  - drupal:simpletest
+  - behat_ui:behat_ui
