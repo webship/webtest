@@ -2,18 +2,18 @@
 
 ### Website Testing tools.
 
-* Drupal Core DEV: ^8 or ^9
-* Drupal Console": ^1
-* Behat": ^3
-* Behat UI: ^3
-* Phing": ^2
-* Drupal Extension: ^3
+* [Drupal Core DEV](https://github.com/drupal/core-dev): ^8 or ^9
+* [Drupal Extension](https://packagist.org/packages/drupal/drupal-extension): ^3
+* [Behat](https://packagist.org/packages/behat/behat): ^3
+* [Behat UI](https://www.drupal.org/project/behat_ui): ^3
+* [Phing](https://packagist.org/packages/phing/phing): ^2
+
 
 ### Recommended to use with composer:
 
 ```
   "require-dev": {
-    "drupal/webtest": "@stable"
+    "drupal/webtest": "2.*@stable"
   },
   "config": {
     "bin-dir": "bin/",
