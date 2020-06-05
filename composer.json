@@ -23,10 +23,9 @@
     }
   },
   "require": {
-    "drupal/core": "^8 || ^9",
-    "drupal/core-dev": "^8 || ^9",
+    "drupal/core": "^8 || ^9 || ~10.0.0",
+    "drupal/core-dev": "^8 || ^9 || ~10.0.0",
     "drupal/console": "^1.0",
-    "drush/drush": "^9 || ^10",
     "behat/behat": "^3",
     "phing/phing": "^2",
     "drupal/drupal-extension": "^3",

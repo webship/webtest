@@ -4,7 +4,6 @@
 
 * Drupal Core DEV: ^8 or ^9
 * Drupal Console": ^1
-* Drush": ^9 or ^10
 * Behat": ^3
 * Behat UI: ^3
 * Phing": ^2
