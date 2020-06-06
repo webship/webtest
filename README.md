@@ -3,9 +3,8 @@
 ### Website Testing tools.
 
 * [Drupal Core DEV](https://github.com/drupal/core-dev): ^8 or ^9
-* [Drupal Extension](https://packagist.org/packages/drupal/drupal-extension): ^3
-* [Behat](https://packagist.org/packages/behat/behat): ^3
-* [Behat UI](https://www.drupal.org/project/behat_ui): ^3
+* [Drupal Extension](https://packagist.org/packages/drupal/drupal-extension): ~4.0
+* [Behat UI](https://www.drupal.org/project/behat_ui): ~4.0
 * [Phing](https://packagist.org/packages/phing/phing): ^2
 
 

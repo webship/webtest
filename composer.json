@@ -25,10 +25,11 @@
   "require": {
     "drupal/core": "^8 || ^9 || ~10.0.0",
     "drupal/core-dev": "^8 || ^9 || ~10.0.0",
-    "drupal/drupal-extension": "^3",
-    "behat/behat": "^3",
-    "drupal/behat_ui": "^3",
+    "drupal/drupal-extension": "~4.0",
+    "drupal/behat_ui": "~4.0",
     "phing/phing": "^2",
+    "dmore/chrome-mink-driver": "^2",
+    "behat/mink-zombie-driver": "^1",
     "emuse/behat-html-formatter": "^0.2.0"
   }
 }
