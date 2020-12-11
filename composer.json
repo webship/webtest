@@ -28,7 +28,6 @@
     "drupal/drupal-extension": "~4.0",
     "drupal/behat_ui": "~4.0",
     "dmore/chrome-mink-driver": "^2",
-    "behat/mink-zombie-driver": "^1",
     "emuse/behat-html-formatter": "^0.2.0"
   }
 }
